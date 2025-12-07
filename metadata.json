@@ -1,0 +1,7 @@
+{
+  "name": "GAIMvantage Sales Intel",
+  "description": "AI-powered revenue intelligence platform using Gemini for sales call analysis and coaching.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
